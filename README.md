@@ -1,6 +1,6 @@
 # **📃Business Case: <font color="red">Delhivery🚚</font> - Feature Engineering**
 
-<img src="https://entrackr.com/storage/2019/06/delhivery.jpg](https://5.imimg.com/data5/SELLER/Default/2023/9/347263336/EH/WH/KN/76061728/delhivery-courier-service-1000x1000.jpg">
+<img src="https://entrackr.com/storage/2019/06/delhivery.jpg">
 
 # **About <font color="red">Delhivery<font>🚚**
 
